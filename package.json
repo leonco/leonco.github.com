@@ -1,0 +1,15 @@
+{
+	"name": "mysite",
+	"version": "0.0.1",
+	"hugo-bin": {
+		"buildTags": "extended"
+	},
+	"scripts": {
+		"build": "hugo",
+		"create": "hugo new",
+		"serve": "hugo server"
+	},
+	"devDependencies": {
+		"hugo-bin": "^0.76.1"
+	}
+}
