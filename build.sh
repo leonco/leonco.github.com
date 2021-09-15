@@ -1,6 +1,6 @@
-ls -al hugo
-chmod a+x hugo
-ls -al hugo
-file hugo
+ls -al zola
+chmod a+x zola
+ls -al zola
+file zola
 pwd
-./hugo
+./zola build
