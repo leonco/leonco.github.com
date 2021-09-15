@@ -5,11 +5,8 @@
 		"buildTags": "extended"
 	},
 	"scripts": {
-		"build": "hugo",
-		"create": "hugo new",
-		"serve": "hugo server"
-	},
-	"devDependencies": {
-		"hugo-bin": "^0.76.1"
+		"build": "./bin/hugo",
+		"create": "./bin/hugo new",
+		"serve": "./bin/hugo server"
 	}
 }
