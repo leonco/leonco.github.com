@@ -1,8 +1,6 @@
-ls -al ./bin/hugo
-chmod a+x ./bin/hugo
-ls -al ./bin/hugo
-uname -m 
+ls -al hugo
+chmod a+x hugo
+ls -al hugo
+file hugo
 pwd
-`pwd`/bin/hugo
-./bin/hugo
-bin/hugo
+./hugo
