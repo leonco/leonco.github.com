@@ -5,8 +5,6 @@
 		"buildTags": "extended"
 	},
 	"scripts": {
-		"build": "./bin/hugo",
-		"create": "./bin/hugo new",
-		"serve": "./bin/hugo server"
+		"build": "./build.sh"
 	}
 }
