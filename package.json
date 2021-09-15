@@ -5,6 +5,6 @@
 		"buildTags": "extended"
 	},
 	"scripts": {
-		"build": "./build.sh"
+		"build": "sh ./build.sh"
 	}
 }
